@@ -138,6 +138,7 @@ footer h2{
 }
 input{
     border : 1px solid rgb(224, 224, 224);
+
 }
 .message input {
     height: 100px;
@@ -157,11 +158,9 @@ input{
 }
 .reseaux img{
     height: 30px;
+    width: 30px;
+}
 
-}
-.reseaux img:hover{
-   color: rgb(169, 238, 255); 
-}
 
 @media  screen and (max-width: 630px) {
     body{
